@@ -1,0 +1,21 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{DbC}]\begingroup Design by Contract, программирование по контракту, контрактное программирование\nomeqref {0}
+		\nompageref{6}
+  \item [{IR}]\begingroup Intermediate Representation, промежуточное представление\nomeqref {0}
+		\nompageref{6}
+  \item [{PS}]\begingroup Predicate State\nomeqref {0}\nompageref{6}
+  \item [{SSA}]\begingroup Static Single Assigment, статическое однократное присваивание\nomeqref {0}
+		\nompageref{6}
+  \item [{БД}]\begingroup база данных\nomeqref {0}
+		\nompageref{6}
+  \item [{ПО}]\begingroup программное обеспечение\nomeqref {0}
+		\nompageref{6}
+  \item [{СКВ}]\begingroup система контроля версий\nomeqref {0}
+		\nompageref{6}
+  \item [{ЯП}]\begingroup язык программирования\nomeqref {0}
+		\nompageref{6}
+
+\end{thenomenclature}

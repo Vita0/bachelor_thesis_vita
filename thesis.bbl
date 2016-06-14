@@ -27,4 +27,14 @@ ANTLR{ [Электронный ресурс]}, Веб-сайт проекта
 \newblock URL: \BibUrl{http://www.antlr.org/} ({дата обращения}:
   18.06.2015).
 
+\bibitem{java-book}
+\selectlanguageifdefined{russian}
+\BibEmph{Нимейер~П., Леук~Д.} Программирование
+  на Java. \BibDash
+\newblock Эксмо, 2014. \BibDash
+\newblock
+  ISBN:~\href{http://isbndb.com/search-all.html?kw=9785457661004}{9785457661004}.
+  \BibDash
+\newblock URL: \BibUrl{https://books.google.ru/books?id=zVpUBQAAQBAJ}.
+
 \end{thebibliography}

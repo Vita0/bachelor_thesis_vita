@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.6.14)  14 JUN 2016 19:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.6.14)  15 JUN 2016 00:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1377,7 +1377,7 @@ File: lstlang1.sty 2014/09/06 1.5e listings language file
 \sixthskip=\skip72
 \picsize=\skip73
 
-<fig/spbpu.jpg, id=36, 334.24875pt x 192.72pt>
+<fig/spbpu.jpg, id=68, 334.24875pt x 192.72pt>
 File: fig/spbpu.jpg Graphic file (type jpg)
  <use fig/spbpu.jpg>
 Package pdftex.def Info: fig/spbpu.jpg used on input line 36.
@@ -1401,7 +1401,13 @@ l.37
 l.41 \makeblankpage
                     [2
 
-] (./abstract.tex) [3
+] (./abstract.tex)
+Underfull \hbox (badness 1661) in paragraph at lines 46--47
+ \T2A/cmr/m/n/10 Ба^^?ка^^?лавр^^?ская ра^^?бо^^?та по^^?свя^^?ще^^?на осу^^?ще
+ств^^?ле^^?нию те^^?ле^^?фон^^?ных
+ []
+
+[3
 
 
 ] [4] (./thesis.toc<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
@@ -1431,7 +1437,30 @@ File: ueuex.fd 2013/01/14 v3.01 Euler extra symbols
 
 
 Writing nomenclature file thesis.nlo
-(./thesis.nls) (./thesis.bbl [6
+(./thesis.nls) (./nomenclature.tex) (./introduction.tex [6
+
+
+]) (./analysis.tex
+[7
+
+] <fig/code_analysis_bugs.png, id=133, 333.49594pt x 202.50656pt>
+File: fig/code_analysis_bugs.png Graphic file (type png)
+
+<use fig/code_analysis_bugs.png>
+Package pdftex.def Info: fig/code_analysis_bugs.png used on input line 20.
+(pdftex.def)             Requested size: 254.93767pt x 154.80884pt.
+) (./task.tex [8
+
+ <./fig/code_analysis_bugs.png>]) (./architecture.tex [9
+
+]) (./design.tex [10
+
+]) (./testing.tex [11
+
+])
+(./conclusion.tex [12
+
+]) (./thesis.bbl [13
 
 ]<<ot1tt.cmap>>
 LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 27.
@@ -1441,44 +1470,42 @@ LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 27.
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
 
-Package caption Warning: Unused \captionsetup[figure] on input line 18.
-See the caption package documentation for explanation.
-
-
 Package caption Warning: Unused \captionsetup[table] on input line 18.
 See the caption package documentation for explanation.
 
-[7
+[14
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 78.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 78.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 77.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 77.
  (./thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 78.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 77.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 77.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: F8671E70B3395A4198AF53B0BD75C457;299.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 78.
+(rerunfilecheck)             Checksum: 61B8CA6745391808C5A59F0FEF3EF8B7;2807.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 77.
  ) 
 Here is how much of TeX's memory you used:
- 25805 strings out of 494466
- 439569 string characters out of 6172530
- 512212 words of memory out of 5000000
- 28523 multiletter control sequences out of 15000+600000
- 11210 words of font info for 33 fonts, out of 8000000 for 9000
+ 25871 strings out of 494466
+ 440397 string characters out of 6172530
+ 513575 words of memory out of 5000000
+ 28543 multiletter control sequences out of 15000+600000
+ 12013 words of font info for 34 fonts, out of 8000000 for 9000
  452 hyphenation exceptions out of 8191
- 64i,11n,104p,990b,422s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,11n,104p,906b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/vita/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/latt1000.600pk> </home/vita
-/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1000.600pk> </home/vita/.texmf-var/fo
-nts/pk/ljfour/lh/lh-t2a/labx1200.600pk> </home/vita/.texmf-var/fonts/pk/ljfour/
-lh/lh-t2a/larm1200.600pk> </home/vita/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx
-1440.600pk> </home/vita/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1000.600pk></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on thesis.pdf (9 pages, 111659 bytes).
+/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm0900.600pk> </home/vita/.texmf-var/fo
+nts/pk/ljfour/lh/lh-t2a/larm1440.600pk> </home/vita/.texmf-var/fonts/pk/ljfour/
+lh/lh-t2a/labx1000.600pk> </home/vita/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx
+1200.600pk> </home/vita/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1200.600pk> </
+home/vita/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1440.600pk> </home/vita/.tex
+mf-var/fonts/pk/ljfour/lh/lh-t2a/larm1000.600pk></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmtt10.pfb>
+Output written on thesis.pdf (16 pages, 183645 bytes).
 PDF statistics:
- 290 PDF objects out of 1000 (max. 8388607)
- 92 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
- 146 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 581 PDF objects out of 1000 (max. 8388607)
+ 178 compressed objects within 2 object streams
+ 33 named destinations out of 1000 (max. 500000)
+ 215 words of extra memory for PDF output out of 10000 (max. 10000000)
 

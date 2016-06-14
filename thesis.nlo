@@ -1,0 +1,8 @@
+\nomenclatureentry{aПО@[{ПО}]\begingroup программное обеспечение\nomeqref {0}|nompageref}{6}
+\nomenclatureentry{aDbC@[{DbC}]\begingroup Design by Contract, программирование по контракту, контрактное программирование\nomeqref {0}|nompageref}{6}
+\nomenclatureentry{aЯП@[{ЯП}]\begingroup язык программирования\nomeqref {0}|nompageref}{6}
+\nomenclatureentry{aIR@[{IR}]\begingroup Intermediate Representation, промежуточное представление\nomeqref {0}|nompageref}{6}
+\nomenclatureentry{aPS@[{PS}]\begingroup Predicate State\nomeqref {0}|nompageref}{6}
+\nomenclatureentry{aSSA@[{SSA}]\begingroup Static Single Assigment, статическое однократное присваивание\nomeqref {0}|nompageref}{6}
+\nomenclatureentry{aБД@[{БД}]\begingroup база данных\nomeqref {0}|nompageref}{6}
+\nomenclatureentry{aСКВ@[{СКВ}]\begingroup система контроля версий\nomeqref {0}|nompageref}{6}
