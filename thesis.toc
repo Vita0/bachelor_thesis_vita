@@ -1,0 +1,6 @@
+\select@language {russian}
+\contentsline {chapter}{\CYRS \CYRP \CYRI \CYRS \CYRO \CYRK \ \CYRI \CYRS \CYRP \CYRO \CYRL \CYRSFTSN \CYRZ \CYRO \CYRV \CYRA \CYRN \CYRN \CYRERY \CYRH \ \CYRI \CYRS \CYRT \CYRO \CYRCH \CYRN \CYRI \CYRK \CYRO \CYRV }{7}{chapter*.2}
+\select@language {english}
+\select@language {russian}
+\select@language {english}
+\select@language {russian}
