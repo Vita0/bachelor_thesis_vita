@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.6.14)  16 JUN 2016 10:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.6.14)  16 JUN 2016 10:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1572,7 +1572,7 @@ lh/lh-t2a/labx1200.600pk> </home/vita/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm
 home/vita/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1000.600pk></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on thesis.pdf (23 pages, 169965 bytes).
+Output written on thesis.pdf (23 pages, 169957 bytes).
 PDF statistics:
  595 PDF objects out of 1000 (max. 8388607)
  251 compressed objects within 3 object streams

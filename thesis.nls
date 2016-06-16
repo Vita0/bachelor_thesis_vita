@@ -19,7 +19,7 @@
 		\nompageref{6}
   \item [{RTC}]\begingroup Real-Time Communications, коммуникации в реальном времени\nomeqref {0}
 		\nompageref{6}
-  \item [{RTP}]\begingroup Secure Real-time Transport Protocol, безопасный протокол передачи данных в реальном времени\nomeqref {0}
+  \item [{SRTP}]\begingroup Secure Real-time Transport Protocol, безопасный протокол передачи данных в реальном времени\nomeqref {0}
 		\nompageref{6}
   \item [{VoIP}]\begingroup Voice over IP, IP-телефония\nomeqref {0}
 		\nompageref{6}

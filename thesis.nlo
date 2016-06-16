@@ -7,6 +7,6 @@
 \nomenclatureentry{aAS3@[{AS3}]\begingroup Action Script 3\nomeqref {0}|nompageref}{6}
 \nomenclatureentry{aAES@[{AES}]\begingroup Advanced Encryption Standard, один из симметричных алгоритмов блочного шифрования\nomeqref {0}|nompageref}{6}
 \nomenclatureentry{aRTC@[{RTC}]\begingroup Real-Time Communications, коммуникации в реальном времени\nomeqref {0}|nompageref}{6}
-\nomenclatureentry{aRTP@[{RTP}]\begingroup Secure Real-time Transport Protocol, безопасный протокол передачи данных в реальном времени\nomeqref {0}|nompageref}{6}
+\nomenclatureentry{aSRTP@[{SRTP}]\begingroup Secure Real-time Transport Protocol, безопасный протокол передачи данных в реальном времени\nomeqref {0}|nompageref}{6}
 \nomenclatureentry{aDTLS@[{DTLS}]\begingroup Datagram Transport Layer Security, протокол датаграмм безопасности транспортного уровня\nomeqref {0}|nompageref}{6}
 \nomenclatureentry{aПО@[{ПО}]\begingroup программное обеспечение\nomeqref {0}|nompageref}{6}
