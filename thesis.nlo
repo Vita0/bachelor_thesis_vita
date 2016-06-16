@@ -1,8 +1,12 @@
+\nomenclatureentry{aJRE@[{JRE}]\begingroup Java Runtime Environment\nomeqref {0}|nompageref}{6}
+\nomenclatureentry{aVoIP@[{VoIP}]\begingroup Voice over IP, IP-телефония\nomeqref {0}|nompageref}{6}
+\nomenclatureentry{aAEC@[{AEC}]\begingroup Acoustic Echo Cancellation, эхоподавление\nomeqref {0}|nompageref}{6}
+\nomenclatureentry{aAGC@[{AGC}]\begingroup Automatic Gain Control, автоматическая регулировка усиления\nomeqref {0}|nompageref}{6}
+\nomenclatureentry{aAJB@[{AJB}]\begingroup Adaptive Jitter Buffer, буфер выравнивания задержек передачи\nomeqref {0}|nompageref}{6}
+\nomenclatureentry{aFCS@[{FCS}]\begingroup Flash Communication Server\nomeqref {0}|nompageref}{6}
+\nomenclatureentry{aAS3@[{AS3}]\begingroup Action Script 3\nomeqref {0}|nompageref}{6}
+\nomenclatureentry{aAES@[{AES}]\begingroup Advanced Encryption Standard, один из симметричных алгоритмов блочного шифрования\nomeqref {0}|nompageref}{6}
+\nomenclatureentry{aRTC@[{RTC}]\begingroup Real-Time Communications, коммуникации в реальном времени\nomeqref {0}|nompageref}{6}
+\nomenclatureentry{aRTP@[{RTP}]\begingroup Secure Real-time Transport Protocol, безопасный протокол передачи данных в реальном времени\nomeqref {0}|nompageref}{6}
+\nomenclatureentry{aDTLS@[{DTLS}]\begingroup Datagram Transport Layer Security, протокол датаграмм безопасности транспортного уровня\nomeqref {0}|nompageref}{6}
 \nomenclatureentry{aПО@[{ПО}]\begingroup программное обеспечение\nomeqref {0}|nompageref}{6}
-\nomenclatureentry{aDbC@[{DbC}]\begingroup Design by Contract, программирование по контракту, контрактное программирование\nomeqref {0}|nompageref}{6}
-\nomenclatureentry{aЯП@[{ЯП}]\begingroup язык программирования\nomeqref {0}|nompageref}{6}
-\nomenclatureentry{aIR@[{IR}]\begingroup Intermediate Representation, промежуточное представление\nomeqref {0}|nompageref}{6}
-\nomenclatureentry{aPS@[{PS}]\begingroup Predicate State\nomeqref {0}|nompageref}{6}
-\nomenclatureentry{aSSA@[{SSA}]\begingroup Static Single Assigment, статическое однократное присваивание\nomeqref {0}|nompageref}{6}
-\nomenclatureentry{aБД@[{БД}]\begingroup база данных\nomeqref {0}|nompageref}{6}
-\nomenclatureentry{aСКВ@[{СКВ}]\begingroup система контроля версий\nomeqref {0}|nompageref}{6}

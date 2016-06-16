@@ -11,30 +11,35 @@
 \providecommand*{\BibDash}{\ifdim\lastskip>0pt\unskip\nobreak\hskip.2em\fi
 \cyrdash\hskip.2em\ignorespaces}
 
-\bibitem{javascript}
+\bibitem{webrtc_flash_java}
+\selectlanguageifdefined{russian}
+WebRTC, Flash RTMFP, Java Applet – три ведущих технологии
+  для браузерных VoIP звонков{ [Электронный
+  ресурс]}, CNews Клуб. \BibDash
+\newblock URL: \BibUrl{http://club.cnews.ru/blogs/entry/webrtc_flash_java_}
+  ({дата обращения}: 16.06.2016).
+
+\bibitem{WebRTC}
 \selectlanguageifdefined{english}
-\BibEmph{Selakovic~Marija, Pradel~Michael}. Automatically Fixing Real-World
-  JavaScript Performance Bugs~// \BibEmph{The 37th International Conference on
-  Software Engineering}. \BibDash
-\newblock 2015. \BibDash
-\newblock Poster. URL:
-  \BibUrl{http://marija.skyresource.com/publications_list/icse2015-poster.pdf}.
+WebRTCElectronic resource, WebRTC. \BibDash
+\newblock URL: \BibUrl{https://sites.google.com/site/webrtc/home} (online;
+  accessed: 16.06.2016).
 
-\bibitem{ANTLR}
+\bibitem{sip_nat}
 \selectlanguageifdefined{russian}
-ANTLR{ [Электронный ресурс]}, Веб-сайт проекта
-  ANTLR. \BibDash
-\newblock URL: \BibUrl{http://www.antlr.org/} ({дата обращения}:
-  18.06.2015).
+Всё, что вы хотели знать о протоколе SIP{
+  [Электронный ресурс]}, Системный
+  администратор. \BibDash
+\newblock URL: \BibUrl{http://samag.ru/archive/article/2017} ({дата
+  обращения}: 16.06.2016).
 
-\bibitem{java-book}
-\selectlanguageifdefined{russian}
-\BibEmph{Нимейер~П., Леук~Д.} Программирование
-  на Java. \BibDash
-\newblock Эксмо, 2014. \BibDash
-\newblock
-  ISBN:~\href{http://isbndb.com/search-all.html?kw=9785457661004}{9785457661004}.
-  \BibDash
-\newblock URL: \BibUrl{https://books.google.ru/books?id=zVpUBQAAQBAJ}.
+\bibitem{WebRTC_W3C}
+\selectlanguageifdefined{english}
+\BibEmph{Bergkvist~Adam, Burnett~Daniel~C., Jennings~Cullen et~al.} WebRTC 1.0:
+  Real-time Communication Between BrowsersElectronic resource~// Internet
+  Requests for Comments, W3C. \BibDash
+\newblock 2016. \BibDash May. \BibDash
+\newblock URL: \BibUrl{https://www.w3.org/TR/2016/WD-webrtc-20160531/} (online;
+  accessed: 16.06.2016).
 
 \end{thebibliography}
