@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.6.14)  19 JUN 2016 16:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.6.14)  19 JUN 2016 19:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1377,7 +1377,7 @@ File: lstlang1.sty 2014/09/06 1.5e listings language file
 \sixthskip=\skip72
 \picsize=\skip73
 
-<fig/spbpu.jpg, id=88, 334.24875pt x 192.72pt>
+<fig/spbpu.jpg, id=92, 334.24875pt x 192.72pt>
 File: fig/spbpu.jpg Graphic file (type jpg)
  <use fig/spbpu.jpg>
 Package pdftex.def Info: fig/spbpu.jpg used on input line 36.
@@ -1508,14 +1508,14 @@ google.html)
 
 [15] [16] [17
 
-] <fig/modulesStructure.jpg, id=240, 305.14pt x 278.03876pt>
+] <fig/modulesStructure.jpg, id=245, 305.14pt x 278.03876pt>
 File: fig/modulesStructure.jpg Graphic file (type jpg)
 
 <use fig/modulesStructure.jpg>
 Package pdftex.def Info: fig/modulesStructure.jpg used on input line 28.
 (pdftex.def)             Requested size: 159.33543pt x 145.18765pt.
 ) (./architecture.tex [18 <./fig/modulesStructure.jpg>] <fig/architecture.jpg, 
-id=250, 522.95375pt x 345.29pt>
+id=255, 522.95375pt x 345.29pt>
 File: fig/architecture.jpg Graphic file (type jpg)
 
 <use fig/architecture.jpg>
@@ -1566,23 +1566,97 @@ Underfull \hbox (badness 2057) in paragraph at lines 27--28
 и оста^^?но^^?ва
  []
 
-<fig/FinalState.jpg, id=267, 442.65375pt x 344.28625pt>
+[21] <fig/FinalState.jpg, id=277, 442.65375pt x 344.28625pt>
 File: fig/FinalState.jpg Graphic file (type jpg)
 
 <use fig/FinalState.jpg>
 Package pdftex.def Info: fig/FinalState.jpg used on input line 31.
 (pdftex.def)             Requested size: 239.00316pt x 185.89604pt.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22 <./fig/FinalState.jpg>]
+Underfull \vbox (badness 1152) has occurred while \output is active []
+
+ [23])
+(./testing.tex [24] [25
+
+] <fig/test1.jpg, id=301, 1081.03876pt x 737.75626pt>
+File: fig/test1.jpg Graphic file (type jpg)
+
+<use fig/test1.jpg>
+Package pdftex.def Info: fig/test1.jpg used on input line 31.
+(pdftex.def)             Requested size: 239.00316pt x 163.10614pt.
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[21] [22 <./fig/FinalState.jpg>]
-Underfull \vbox (badness 1072) has occurred while \output is active []
+<fig/test2.jpg, id=302, 269.005pt x 349.305pt>
+File: fig/test2.jpg Graphic file (type jpg)
+ <use fig/test2.jpg>
+Package pdftex.def Info: fig/test2.jpg used on input line 37.
+(pdftex.def)             Requested size: 127.4664pt x 165.51651pt.
 
- [23])
-(./testing.tex [24]) (./conclusion.tex [25
 
-]) (./thesis.bbl [26
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<fig/test3.jpg, id=303, 272.01625pt x 348.30125pt>
+File: fig/test3.jpg Graphic file (type jpg)
+ <use fig/test3.jpg>
+Package pdftex.def Info: fig/test3.jpg used on input line 43.
+(pdftex.def)             Requested size: 127.4664pt x 163.21797pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<fig/test4.jpg, id=304, 259.97125pt x 347.2975pt>
+File: fig/test4.jpg Graphic file (type jpg)
+ <use fig/test4.jpg>
+Package pdftex.def Info: fig/test4.jpg used on input line 49.
+(pdftex.def)             Requested size: 127.4664pt x 170.28325pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<fig/test5.jpg, id=305, 274.02374pt x 349.305pt>
+File: fig/test5.jpg Graphic file (type jpg)
+ <use fig/test5.jpg>
+Package pdftex.def Info: fig/test5.jpg used on input line 55.
+(pdftex.def)             Requested size: 127.4664pt x 162.48376pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<fig/test6.jpg, id=306, 266.9975pt x 350.30875pt>
+File: fig/test6.jpg Graphic file (type jpg)
+ <use fig/test6.jpg>
+Package pdftex.def Info: fig/test6.jpg used on input line 61.
+(pdftex.def)             Requested size: 127.4664pt x 167.2376pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<fig/test7.jpg, id=307, 266.9975pt x 350.30875pt>
+File: fig/test7.jpg Graphic file (type jpg)
+ <use fig/test7.jpg>
+Package pdftex.def Info: fig/test7.jpg used on input line 67.
+(pdftex.def)             Requested size: 127.4664pt x 167.2376pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<fig/test8.jpg, id=308, 266.9975pt x 350.30875pt>
+File: fig/test8.jpg Graphic file (type jpg)
+ <use fig/test8.jpg>
+Package pdftex.def Info: fig/test8.jpg used on input line 73.
+(pdftex.def)             Requested size: 127.4664pt x 167.2376pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (./conclusion.tex [26] [27 <./fig/test1.jpg> <./fig/test2.jpg>] [28 <./fig/te
+st3.jpg> <./fig/test4.jpg>] [29 <./fig/test5.jpg> <./fig/test6.jpg>] [30 <./fig
+/test7.jpg> <./fig/test8.jpg>]) (./thesis.bbl [31
 
 ]
 LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 19.
@@ -1617,31 +1691,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--70
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [27
+ [32
 
 ])
 
 Package caption Warning: Unused \captionsetup[table] on input line 18.
 See the caption package documentation for explanation.
 
-[28]
+[33]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 77.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 77.
  (./thesis.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 77.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 77.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 587C37B1DCBD3BFE939D2ACBB124EE07;5366.
+(rerunfilecheck)             Checksum: AB2BB1ABB9CDFDC30FE39B4A4AD71CD9;5673.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 77.
  ) 
 Here is how much of TeX's memory you used:
- 26016 strings out of 494466
- 442198 string characters out of 6172530
- 516857 words of memory out of 5000000
- 28608 multiletter control sequences out of 15000+600000
+ 26079 strings out of 494466
+ 443138 string characters out of 6172530
+ 519835 words of memory out of 5000000
+ 28649 multiletter control sequences out of 15000+600000
  17881 words of font info for 51 fonts, out of 8000000 for 9000
  452 hyphenation exceptions out of 8191
- 64i,11n,104p,1472b,643s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,12n,104p,1472b,643s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/vita/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/latt1000.600pk> </home/vita
 /.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm0800.600pk> </home/vita/.texmf-var/fo
 nts/pk/ljfour/lh/lh-t2a/larm0600.600pk> </home/vita/.texmf-var/fonts/pk/ljfour/
@@ -1654,10 +1728,10 @@ k/ljfour/lh/lh-t2a/larm1200.600pk> </home/vita/.texmf-var/fonts/pk/ljfour/lh/lh
 600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on thesis.pdf (30 pages, 288198 bytes).
+Output written on thesis.pdf (35 pages, 785084 bytes).
 PDF statistics:
- 778 PDF objects out of 1000 (max. 8388607)
- 327 compressed objects within 4 object streams
- 86 named destinations out of 1000 (max. 500000)
- 265 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 856 PDF objects out of 1000 (max. 8388607)
+ 360 compressed objects within 4 object streams
+ 100 named destinations out of 1000 (max. 500000)
+ 313 words of extra memory for PDF output out of 10000 (max. 10000000)
 
