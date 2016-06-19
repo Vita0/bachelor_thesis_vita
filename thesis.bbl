@@ -42,4 +42,30 @@ WebRTCElectronic resource, WebRTC. \BibDash
 \newblock URL: \BibUrl{https://www.w3.org/TR/2016/WD-webrtc-20160531/} (online;
   accessed: 16.06.2016).
 
+\bibitem{sipML5}
+\selectlanguageifdefined{english}
+World's first HTML5 SIP clientElectronic resource, Doubango Telecom. \BibDash
+\newblock URL: \BibUrl{https://www.doubango.org/sipml5/} (online; accessed:
+  19.06.2016).
+
+\bibitem{JsSIP}
+\selectlanguageifdefined{english}
+the JavaScript SIP library JsSIPElectronic resource, JsSIP. \BibDash
+\newblock URL: \BibUrl{http://jssip.net/} (online; accessed: 19.06.2016).
+
+\bibitem{asterisk}
+\selectlanguageifdefined{english}
+Digium, Inc. \BibDash
+\newblock Asterisk WebRTC Support. \BibDash
+\newblock URL:
+  \BibUrl{https://wiki.asterisk.org/wiki/display/AST/Asterisk+WebRTC+Support}
+  (online; accessed: 19.06.2016).
+
+\bibitem{vtiger_db}
+\selectlanguageifdefined{english}
+vtigerCRM Data Model. \BibDash
+\newblock URL:
+  \BibUrl{https://www.vtiger.com/products/crm/docs/510/vtigerCRM_DataModel_5.2.1.pdf}
+  (online; accessed: 19.06.2016).
+
 \end{thebibliography}
