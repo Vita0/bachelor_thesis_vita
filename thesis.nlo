@@ -14,3 +14,7 @@
 \nomenclatureentry{aDTMF@[{DTMF}]\begingroup Dual-Tone Multi-Frequency, двухтональный многочастотный аналоговый сигнал\nomeqref {0}|nompageref}{8}
 \nomenclatureentry{aAJAX@[{AJAX}]\begingroup Asynchronous Javascript And Xml\nomeqref {0}|nompageref}{8}
 \nomenclatureentry{aSIP@[{SIP}]\begingroup Session Initiation Protocol\nomeqref {0}|nompageref}{8}
+\nomenclatureentry{aICE@[{ICE}]\begingroup Interactive Connectivity Establishment\nomeqref {0}|nompageref}{8}
+\nomenclatureentry{aSTUN@[{STUN}]\begingroup Session Traversal Utilities for NAT, утилиты прохождения сессий для NAT\nomeqref {0}|nompageref}{8}
+\nomenclatureentry{aNAT@[{NAT}]\begingroup Network Address Translation, трансляция сетевых адресов\nomeqref {0}|nompageref}{8}
+\nomenclatureentry{aSDK@[{SDK}]\begingroup Software Development Kit, комплект средств разработки\nomeqref {0}|nompageref}{8}

@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 \def\selectlanguageifdefined#1{
 \expandafter\ifx\csname date#1\endcsname\relax
 \else\selectlanguage{#1}\fi}
@@ -10,6 +10,28 @@
 \ProvideTextCommandDefault{\cyrdash}{\hbox to.8em{--\hss--}}
 \providecommand*{\BibDash}{\ifdim\lastskip>0pt\unskip\nobreak\hskip.2em\fi
 \cyrdash\hskip.2em\ignorespaces}
+
+\bibitem{ajax_problem}
+\selectlanguageifdefined{english}
+Introducing WebSockets: Bringing Sockets to the WebElectronic resource, HTML5
+  Rocks. \BibDash
+\newblock URL:
+  \BibUrl{http://www.html5rocks.com/en/tutorials/websockets/basics/} (online;
+  accessed: 19.06.2016).
+
+\bibitem{web_socket_begining}
+\selectlanguageifdefined{english}
+Introducing WebSockets: Bringing Sockets to the WebElectronic resource,
+  Chromium Blog. \BibDash
+\newblock URL:
+  \BibUrl{http://blog.chromium.org/2009/12/web-sockets-now-available-in-google.html}
+  (online; accessed: 19.06.2016).
+
+\bibitem{bowser}
+\selectlanguageifdefined{english}
+Bowser - WebRTC on iOSElectronic resource, Ericsson Research. \BibDash
+\newblock URL: \BibUrl{http://www.openwebrtc.org/bowser/} (online; accessed:
+  19.06.2016).
 
 \bibitem{webrtc_flash_java}
 \selectlanguageifdefined{russian}
@@ -32,6 +54,13 @@ WebRTCElectronic resource, WebRTC. \BibDash
   администратор. \BibDash
 \newblock URL: \BibUrl{http://samag.ru/archive/article/2017} ({дата
   обращения}: 16.06.2016).
+
+\bibitem{browsers_url}
+\selectlanguageifdefined{english}
+Can i use... Support tables for HTML5, CSS3, etcElectronic resource, Can i use.
+  \BibDash
+\newblock URL: \BibUrl{http://caniuse.com/\#feat=websockets} (online; accessed:
+  19.06.2016).
 
 \bibitem{WebRTC_W3C}
 \selectlanguageifdefined{english}
@@ -66,6 +95,20 @@ Digium, Inc. \BibDash
 vtigerCRM Data Model. \BibDash
 \newblock URL:
   \BibUrl{https://www.vtiger.com/products/crm/docs/510/vtigerCRM_DataModel_5.2.1.pdf}
+  (online; accessed: 19.06.2016).
+
+\bibitem{sipML5_demo}
+\selectlanguageifdefined{english}
+sipML5 live demoElectronic resource, Doubango Telecom. \BibDash
+\newblock URL: \BibUrl{https://www.doubango.org/sipml5/call.htm?svn=250}
+  (online; accessed: 19.06.2016).
+
+\bibitem{chrome_https}
+\selectlanguageifdefined{english}
+Chrome 47 WebRTC\: media recording, secure origins \& proxy handlingElectronic
+  resource, Google Developers. \BibDash
+\newblock URL:
+  \BibUrl{https://developers.google.com/web/updates/2015/10/chrome-47-webrtc}
   (online; accessed: 19.06.2016).
 
 \end{thebibliography}

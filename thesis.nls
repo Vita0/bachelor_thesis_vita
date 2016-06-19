@@ -3,35 +3,43 @@
  \nomgroup{A}
 
   \item [{AEC}]\begingroup Acoustic Echo Cancellation, эхоподавление\nomeqref {0}
-		\nompageref{8}
+		\nompageref{7}
   \item [{AES}]\begingroup Advanced Encryption Standard, один из симметричных алгоритмов блочного шифрования\nomeqref {0}
-		\nompageref{8}
+		\nompageref{7}
   \item [{AGC}]\begingroup Automatic Gain Control, автоматическая регулировка усиления\nomeqref {0}
-		\nompageref{8}
+		\nompageref{7}
   \item [{AJAX}]\begingroup Asynchronous Javascript And Xml\nomeqref {0}
-		\nompageref{8}
+		\nompageref{7}
   \item [{AJB}]\begingroup Adaptive Jitter Buffer, буфер выравнивания задержек передачи\nomeqref {0}
-		\nompageref{8}
-  \item [{AS3}]\begingroup Action Script 3\nomeqref {0}\nompageref{8}
+		\nompageref{7}
+  \item [{AS3}]\begingroup Action Script 3\nomeqref {0}\nompageref{7}
   \item [{CRM}]\begingroup Customer Relationship Management, управление взаимоотношениями с клиентами\nomeqref {0}
-		\nompageref{8}
+		\nompageref{7}
   \item [{DTLS}]\begingroup Datagram Transport Layer Security, протокол датаграмм безопасности транспортного уровня\nomeqref {0}
-		\nompageref{8}
+		\nompageref{7}
   \item [{DTMF}]\begingroup Dual-Tone Multi-Frequency, двухтональный многочастотный аналоговый сигнал\nomeqref {0}
-		\nompageref{8}
+		\nompageref{7}
   \item [{FCS}]\begingroup Flash Communication Server\nomeqref {0}
-		\nompageref{8}
+		\nompageref{7}
+  \item [{ICE}]\begingroup Interactive Connectivity Establishment\nomeqref {0}
+		\nompageref{7}
   \item [{JRE}]\begingroup Java Runtime Environment\nomeqref {0}
-		\nompageref{8}
+		\nompageref{7}
+  \item [{NAT}]\begingroup Network Address Translation, трансляция сетевых адресов\nomeqref {0}
+		\nompageref{7}
   \item [{RTC}]\begingroup Real-Time Communications, коммуникации в реальном времени\nomeqref {0}
-		\nompageref{8}
+		\nompageref{7}
+  \item [{SDK}]\begingroup Software Development Kit, комплект средств разработки\nomeqref {0}
+		\nompageref{7}
   \item [{SIP}]\begingroup Session Initiation Protocol\nomeqref {0}
-		\nompageref{8}
+		\nompageref{7}
   \item [{SRTP}]\begingroup Secure Real-time Transport Protocol, безопасный протокол передачи данных в реальном времени\nomeqref {0}
-		\nompageref{8}
+		\nompageref{7}
+  \item [{STUN}]\begingroup Session Traversal Utilities for NAT, утилиты прохождения сессий для NAT\nomeqref {0}
+		\nompageref{7}
   \item [{VoIP}]\begingroup Voice over IP, IP-телефония\nomeqref {0}
-		\nompageref{8}
+		\nompageref{7}
   \item [{ПО}]\begingroup программное обеспечение\nomeqref {0}
-		\nompageref{8}
+		\nompageref{7}
 
 \end{thenomenclature}
