@@ -4,47 +4,48 @@ The top-level auxiliary file: thesis.aux
 The style file: ugost2008.bst
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: thesis.bib
+Warning--empty year in bitrix24
 Warning--empty year in asterisk
 Warning--empty year in vtiger_db
-You've used 14 entries,
+You've used 18 entries,
             3948 wiz_defined-function locations,
-            1151 strings with 10439 characters,
-and the built_in function-call counts, 2576 in all, are:
-= -- 264
-> -- 29
+            1168 strings with 10941 characters,
+and the built_in function-call counts, 3265 in all, are:
+= -- 338
+> -- 33
 < -- 0
-+ -- 18
++ -- 22
 - -- 4
-* -- 216
-:= -- 202
-add.period$ -- 31
-call.type$ -- 14
+* -- 274
+:= -- 249
+add.period$ -- 40
+call.type$ -- 18
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 16
-duplicate$ -- 165
-empty$ -- 398
+cite$ -- 21
+duplicate$ -- 211
+empty$ -- 508
 format.name$ -- 4
-if$ -- 686
+if$ -- 874
 int.to.chr$ -- 0
-int.to.str$ -- 14
+int.to.str$ -- 18
 missing$ -- 0
-newline$ -- 86
+newline$ -- 107
 num.names$ -- 1
-pop$ -- 91
+pop$ -- 117
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 73
+skip$ -- 92
 stack$ -- 0
 substring$ -- 0
-swap$ -- 85
+swap$ -- 108
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 14
-warning$ -- 2
+type$ -- 18
+warning$ -- 3
 while$ -- 1
-width$ -- 16
-write$ -- 145
-(There were 2 warnings)
+width$ -- 20
+write$ -- 183
+(There were 3 warnings)

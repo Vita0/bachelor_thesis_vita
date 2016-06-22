@@ -3,18 +3,13 @@
 \nomenclatureentry{aAEC@[{AEC}]\begingroup Acoustic Echo Cancellation, эхоподавление\nomeqref {0}|nompageref}{8}
 \nomenclatureentry{aAGC@[{AGC}]\begingroup Automatic Gain Control, автоматическая регулировка усиления\nomeqref {0}|nompageref}{8}
 \nomenclatureentry{aAJB@[{AJB}]\begingroup Adaptive Jitter Buffer, буфер выравнивания задержек передачи\nomeqref {0}|nompageref}{8}
-\nomenclatureentry{aFCS@[{FCS}]\begingroup Flash Communication Server\nomeqref {0}|nompageref}{8}
-\nomenclatureentry{aAS3@[{AS3}]\begingroup Action Script 3\nomeqref {0}|nompageref}{8}
-\nomenclatureentry{aAES@[{AES}]\begingroup Advanced Encryption Standard, один из симметричных алгоритмов блочного шифрования\nomeqref {0}|nompageref}{8}
-\nomenclatureentry{aRTC@[{RTC}]\begingroup Real-Time Communications, коммуникации в реальном времени\nomeqref {0}|nompageref}{8}
+\nomenclatureentry{aWebRTC@[{WebRTC}]\begingroup Real-Time Communications, коммуникации в реальном времени\nomeqref {0}|nompageref}{8}
+\nomenclatureentry{aRTP@[{RTP}]\begingroup Real-time Transport Protocol, безопасный протокол передачи данных в реальном времени\nomeqref {0}|nompageref}{8}
 \nomenclatureentry{aSRTP@[{SRTP}]\begingroup Secure Real-time Transport Protocol, безопасный протокол передачи данных в реальном времени\nomeqref {0}|nompageref}{8}
 \nomenclatureentry{aDTLS@[{DTLS}]\begingroup Datagram Transport Layer Security, протокол датаграмм безопасности транспортного уровня\nomeqref {0}|nompageref}{8}
-\nomenclatureentry{aПО@[{ПО}]\begingroup программное обеспечение\nomeqref {0}|nompageref}{8}
 \nomenclatureentry{aCRM@[{CRM}]\begingroup Customer Relationship Management, управление взаимоотношениями с клиентами\nomeqref {0}|nompageref}{8}
 \nomenclatureentry{aDTMF@[{DTMF}]\begingroup Dual-Tone Multi-Frequency, двухтональный многочастотный аналоговый сигнал\nomeqref {0}|nompageref}{8}
-\nomenclatureentry{aAJAX@[{AJAX}]\begingroup Asynchronous Javascript And Xml\nomeqref {0}|nompageref}{8}
+\nomenclatureentry{aAJAX@[{AJAX}]\begingroup Asynchronous Javascript And Xml, Асинхронный JavaScript и Xml\nomeqref {0}|nompageref}{8}
 \nomenclatureentry{aSIP@[{SIP}]\begingroup Session Initiation Protocol\nomeqref {0}|nompageref}{8}
-\nomenclatureentry{aICE@[{ICE}]\begingroup Interactive Connectivity Establishment\nomeqref {0}|nompageref}{8}
+\nomenclatureentry{aICE@[{ICE}]\begingroup Interactive Connectivity Establishment, Установление интерактивного соединения\nomeqref {0}|nompageref}{8}
 \nomenclatureentry{aSTUN@[{STUN}]\begingroup Session Traversal Utilities for NAT, утилиты прохождения сессий для NAT\nomeqref {0}|nompageref}{8}
-\nomenclatureentry{aNAT@[{NAT}]\begingroup Network Address Translation, трансляция сетевых адресов\nomeqref {0}|nompageref}{8}
-\nomenclatureentry{aSDK@[{SDK}]\begingroup Software Development Kit, комплект средств разработки\nomeqref {0}|nompageref}{8}

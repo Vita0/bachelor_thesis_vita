@@ -11,6 +11,21 @@
 \providecommand*{\BibDash}{\ifdim\lastskip>0pt\unskip\nobreak\hskip.2em\fi
 \cyrdash\hskip.2em\ignorespaces}
 
+\bibitem{webrtc_flash_java}
+\selectlanguageifdefined{russian}
+WebRTC, Flash RTMFP, Java Applet – три ведущих технологии
+  для браузерных VoIP звонков{ [Электронный
+  ресурс]}, CNews Клуб. \BibDash
+\newblock URL: \BibUrl{http://club.cnews.ru/blogs/entry/webrtc_flash_java_}
+  ({дата обращения}: 16.06.2016).
+
+\bibitem{adobe}
+\selectlanguageifdefined{english}
+Flash Media ServerElectronic resource, Adobe Systems Incorporated. \BibDash
+\newblock URL:
+  \BibUrl{http://www.adobe.com/products/adobe-media-server-family.html}
+  (online; accessed: 20.06.2016).
+
 \bibitem{ajax_problem}
 \selectlanguageifdefined{english}
 Introducing WebSockets: Bringing Sockets to the WebElectronic resource, HTML5
@@ -32,14 +47,6 @@ Introducing WebSockets: Bringing Sockets to the WebElectronic resource,
 Bowser - WebRTC on iOSElectronic resource, Ericsson Research. \BibDash
 \newblock URL: \BibUrl{http://www.openwebrtc.org/bowser/} (online; accessed:
   19.06.2016).
-
-\bibitem{webrtc_flash_java}
-\selectlanguageifdefined{russian}
-WebRTC, Flash RTMFP, Java Applet – три ведущих технологии
-  для браузерных VoIP звонков{ [Электронный
-  ресурс]}, CNews Клуб. \BibDash
-\newblock URL: \BibUrl{http://club.cnews.ru/blogs/entry/webrtc_flash_java_}
-  ({дата обращения}: 16.06.2016).
 
 \bibitem{WebRTC}
 \selectlanguageifdefined{english}
@@ -70,6 +77,29 @@ Can i use... Support tables for HTML5, CSS3, etcElectronic resource, Can i use.
 \newblock 2016. \BibDash May. \BibDash
 \newblock URL: \BibUrl{https://www.w3.org/TR/2016/WD-webrtc-20160531/} (online;
   accessed: 16.06.2016).
+
+\bibitem{bestCRMs}
+\selectlanguageifdefined{russian}
+Рейтинг CRM-систем (управление отношениями с
+  клиентами) 2016{ [Электронный ресурс]},
+  Тэглайн. \BibDash
+\newblock URL: \BibUrl{http://tagline.ru/crm-systems-rating/} ({дата
+  обращения}: 20.06.2016).
+
+\bibitem{amoCRM}
+\selectlanguageifdefined{russian}
+Онлайн CRM система - amoCRM{ [Электронный
+  ресурс]}, amoCRM. \BibDash
+\newblock URL: \BibUrl{http://www.amocrm.ru/} ({дата обращения}:
+  20.06.2016).
+
+\bibitem{bitrix24}
+\selectlanguageifdefined{russian}
+amoCRM. \BibDash
+\newblock Телефония в Битрикс24. \BibDash
+\newblock URL:
+  \BibUrl{https://dev.1c-bitrix.ru/learning/course/?COURSE_ID=77&CHAPTER_ID=02564&LESSON_PATH=6907.2564}
+  ({дата обращения}: 20.06.2016).
 
 \bibitem{sipML5}
 \selectlanguageifdefined{english}
