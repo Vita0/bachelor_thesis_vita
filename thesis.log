@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.6.14)  23 JUN 2016 06:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.6.14)  23 JUN 2016 06:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1535,7 +1535,7 @@ File: fig/architecture.jpg Graphic file (type jpg)
 
 <use fig/architecture.jpg>
 Package pdftex.def Info: fig/architecture.jpg used on input line 36.
-(pdftex.def)             Requested size: 254.93767pt x 131.37648pt.
+(pdftex.def)             Requested size: 286.80185pt x 147.7979pt.
  [26 <./fig/architecture.jpg>]
 Underfull \hbox (badness 4254) in paragraph at lines 45--46
 []\T2A/cmr/m/n/10 Однако пе^^?ред тем как зво^^?нить, необ^^?хо^^?ди^^?мо по^^?
@@ -1566,78 +1566,46 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [29
 
 ]
-[30]
-Underfull \hbox (badness 3158) in paragraph at lines 42--43
-\T2A/cmr/m/n/10 за^^?пись c по^^?ля^^?ми: linkurl - на^^?зва^^?ние фай^^?ла (в 
-на^^?шем слу^^?чае
- []
-
-
-Underfull \vbox (badness 1496) has occurred while \output is active []
-
- [31]
-Underfull \hbox (badness 1043) in paragraph at lines 48--49
-[]\T2A/cmr/m/n/10 Итак, раз^^?ра^^?ба^^?ты^^?ва^^?е^^?мый мо^^?дуль дол^^?жен б
-ыть лег^^?ко под^^?клю^^?
- []
-
-
-Underfull \hbox (badness 2351) in paragraph at lines 48--49
-\T2A/cmr/m/n/10 ча^^?ем к web-^^?при^^?ло^^?же^^?нию. По^^?это^^?му бы^^?ло ре^
-^?ше^^?но сде^^?лать файл
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
+[30] [31]
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
 []\T2A/cmr/m/n/10 softPhone_"web-app".php - под^^?мо^^?дуль, от^^?прав^^?ля^^?ю
 ^^?щий
  []
 
-[32] [33]
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
+[32]
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
 []\T2A/cmr/m/n/10 startRingTone(), stopRingTone(), startRingbackTone() и
  []
 
 
-Underfull \hbox (badness 2057) in paragraph at lines 68--69
+Underfull \hbox (badness 2057) in paragraph at lines 66--67
 \T2A/cmr/m/n/10 stopRingbackTone() - функ^^?ции вос^^?про^^?из^^?ве^^?де^^?ния 
 и оста^^?но^^?ва
  []
 
-<fig/FinalState.jpg, id=459, 442.65375pt x 344.28625pt>
+<fig/FinalState.jpg, id=452, 442.65375pt x 344.28625pt>
 File: fig/FinalState.jpg Graphic file (type jpg)
 
 <use fig/FinalState.jpg>
-Package pdftex.def Info: fig/FinalState.jpg used on input line 72.
+Package pdftex.def Info: fig/FinalState.jpg used on input line 70.
 (pdftex.def)             Requested size: 239.00316pt x 185.89604pt.
- [34 <./fig/FinalState.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 87--88
-[]\T2A/cmr/m/n/10 Компонент softPhone_vtiger.js со^^?дер^^?жит функ^^?цию
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[33]
+Underfull \hbox (badness 3158) in paragraph at lines 85--86
+\T2A/cmr/m/n/10 за^^?пись c по^^?ля^^?ми: linkurl - на^^?зва^^?ние фай^^?ла (в 
+на^^?шем слу^^?чае
  []
 
-
-Underfull \hbox (badness 4647) in paragraph at lines 87--88
-\T2A/cmr/m/n/10 getSipAccount(), ко^^?то^^?рая осу^^?ществ^^?ля^^?ет AJAX-^^?за
-прос дан^^?ных о
+[34 <./fig/FinalState.jpg>]
+Underfull \hbox (badness 1430) in paragraph at lines 91--92
+[]\T2A/cmr/m/n/10 Функция getSipAccount() осу^^?ществ^^?ля^^?ет AJAX-^^?запрос 
+дан^^?ных
  []
 
-
-Underfull \hbox (badness 1675) in paragraph at lines 87--88
-\T2A/cmr/m/n/10 SIP-^^?акка^^?ун^^?те (ip-^^?адрес и порт сер^^?ве^^?ра те^^?ле
-^^?фо^^?нии, SIP-^^?номер и
- []
-
-
-Underfull \hbox (badness 3019) in paragraph at lines 87--88
-\T2A/cmr/m/n/10 CRM-^^?систе^^?мы, по^^?лу^^?ча^^?ет ин^^?фор^^?ма^^?цию о SIP-
-^^?акка^^?ун^^?те те^^?ку^^?ще^^?го
- []
-
-
-Underfull \vbox (badness 1400) has occurred while \output is active []
-
- [35])
-(./testing.tex [36]
+[35]) (./testing.tex [36]
 Underfull \hbox (badness 1442) in paragraph at lines 11--12
 []\T2A/cmr/m/n/10 Из это^^?го мож^^?но сде^^?лать вы^^?вод, Google Chrome ве^^?
 дјт се^^?бя
@@ -1645,7 +1613,7 @@ Underfull \hbox (badness 1442) in paragraph at lines 11--12
 
 [37
 
-] <fig/test1.jpg, id=485, 1081.03876pt x 737.75626pt>
+] <fig/test1.jpg, id=486, 1081.03876pt x 737.75626pt>
 File: fig/test1.jpg Graphic file (type jpg)
  <use fig/test1.jpg>
 Package pdftex.def Info: fig/test1.jpg used on input line 31.
@@ -1654,7 +1622,7 @@ Package pdftex.def Info: fig/test1.jpg used on input line 31.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<fig/test2.jpg, id=487, 269.005pt x 349.305pt>
+<fig/test2.jpg, id=488, 269.005pt x 349.305pt>
 File: fig/test2.jpg Graphic file (type jpg)
  <use fig/test2.jpg>
 Package pdftex.def Info: fig/test2.jpg used on input line 39.
@@ -1663,7 +1631,7 @@ Package pdftex.def Info: fig/test2.jpg used on input line 39.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/test3.jpg, id=488, 272.01625pt x 348.30125pt>
+<fig/test3.jpg, id=489, 272.01625pt x 348.30125pt>
 File: fig/test3.jpg Graphic file (type jpg)
  <use fig/test3.jpg>
 Package pdftex.def Info: fig/test3.jpg used on input line 45.
@@ -1672,7 +1640,7 @@ Package pdftex.def Info: fig/test3.jpg used on input line 45.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/test4.jpg, id=489, 259.97125pt x 347.2975pt>
+<fig/test4.jpg, id=490, 259.97125pt x 347.2975pt>
 File: fig/test4.jpg Graphic file (type jpg)
  <use fig/test4.jpg>
 Package pdftex.def Info: fig/test4.jpg used on input line 51.
@@ -1681,7 +1649,7 @@ Package pdftex.def Info: fig/test4.jpg used on input line 51.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/test5.jpg, id=490, 274.02374pt x 349.305pt>
+<fig/test5.jpg, id=491, 274.02374pt x 349.305pt>
 File: fig/test5.jpg Graphic file (type jpg)
  <use fig/test5.jpg>
 Package pdftex.def Info: fig/test5.jpg used on input line 57.
@@ -1690,7 +1658,7 @@ Package pdftex.def Info: fig/test5.jpg used on input line 57.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/test6.jpg, id=491, 266.9975pt x 350.30875pt>
+<fig/test6.jpg, id=492, 266.9975pt x 350.30875pt>
 File: fig/test6.jpg Graphic file (type jpg)
  <use fig/test6.jpg>
 Package pdftex.def Info: fig/test6.jpg used on input line 63.
@@ -1699,7 +1667,7 @@ Package pdftex.def Info: fig/test6.jpg used on input line 63.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/test7.jpg, id=492, 266.9975pt x 350.30875pt>
+<fig/test7.jpg, id=493, 266.9975pt x 350.30875pt>
 File: fig/test7.jpg Graphic file (type jpg)
  <use fig/test7.jpg>
 Package pdftex.def Info: fig/test7.jpg used on input line 69.
@@ -1708,7 +1676,7 @@ Package pdftex.def Info: fig/test7.jpg used on input line 69.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/test8.jpg, id=493, 266.9975pt x 350.30875pt>
+<fig/test8.jpg, id=494, 266.9975pt x 350.30875pt>
 File: fig/test8.jpg Graphic file (type jpg)
  <use fig/test8.jpg>
 Package pdftex.def Info: fig/test8.jpg used on input line 75.
@@ -1952,10 +1920,10 @@ r/fonts/pk/ljfour/lh/lh-t2a/larm1000.600pk></usr/share/texlive/texmf-dist/fonts
 public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmtt10.pfb>
-Output written on thesis.pdf (65 pages, 1003004 bytes).
+Output written on thesis.pdf (65 pages, 1002984 bytes).
 PDF statistics:
- 2127 PDF objects out of 2487 (max. 8388607)
- 1303 compressed objects within 14 object streams
+ 2128 PDF objects out of 2487 (max. 8388607)
+ 1304 compressed objects within 14 object streams
  717 named destinations out of 1000 (max. 500000)
  470 words of extra memory for PDF output out of 10000 (max. 10000000)
 
