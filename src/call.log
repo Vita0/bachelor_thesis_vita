@@ -1,0 +1,25 @@
+    -- Registered SIP '101' at 192.168.0.104:59099
+       > Saved useragent "CSipSimple_marvel-10/r2457" for peer 101
+[Jun 23 07:45:03] NOTICE[9307]: chan_sip.c:27708 handle_request_subscribe: Received SIP subscribe for peer without mailbox: 101
+  == WebSocket connection from '192.168.0.105:58921' for protocol 'sip' accepted using version '13'
+    -- Registered SIP '103' at 192.168.0.105:58921
+       > Saved useragent "IM-client/OMA1.0 sipML5-v1.0.0.0" for peer 103
+[Jun 23 07:46:17] NOTICE[9364]: chan_sip.c:23945 handle_response_peerpoke: Peer '103' is now Reachable. (32ms / 2000ms)
+  == Using SIP VIDEO CoS mark 6
+  == Using SIP RTP CoS mark 5
+    -- Executing [101@from-internal:1] NoOp("SIP/103-00000000", "webrtc test call") in new stack
+    -- Executing [101@from-internal:2] Dial("SIP/103-00000000", "SIP/101") in new stack
+  == Using SIP RTP CoS mark 5
+    -- Called SIP/101
+    -- SIP/101-00000001 is ringing
+       > 0x7f8f84005fd0 -- Probation passed - setting RTP source address to 192.168.0.104:4000
+    -- SIP/101-00000001 answered SIP/103-00000000
+    -- Channel SIP/101-00000001 joined 'simple_bridge' basic-bridge <d6898e4f-618e-4bed-afd2-48c4a170cb8e>
+    -- Channel SIP/103-00000000 joined 'simple_bridge' basic-bridge <d6898e4f-618e-4bed-afd2-48c4a170cb8e>
+       > 0x7f8f84005fd0 -- Probation passed - setting RTP source address to 192.168.0.104:4000
+       > 0x7f8f8800d740 -- Probation passed - setting RTP source address to 192.168.0.105:56165
+    -- Channel SIP/101-00000001 left 'simple_bridge' basic-bridge <d6898e4f-618e-4bed-afd2-48c4a170cb8e>
+    -- Channel SIP/103-00000000 left 'simple_bridge' basic-bridge <d6898e4f-618e-4bed-afd2-48c4a170cb8e>
+  == Spawn extension (from-internal, 101, 2) exited non-zero on 'SIP/103-00000000'
+    -- Unregistered SIP '103'
+  == WebSocket connection from '192.168.0.105:58921' closed
