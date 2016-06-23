@@ -7,45 +7,45 @@ Database file #1: thesis.bib
 Warning--empty year in bitrix24
 Warning--empty year in asterisk
 Warning--empty year in vtiger_db
-You've used 18 entries,
+You've used 19 entries,
             3948 wiz_defined-function locations,
-            1168 strings with 10941 characters,
-and the built_in function-call counts, 3265 in all, are:
-= -- 338
-> -- 33
+            1172 strings with 10999 characters,
+and the built_in function-call counts, 3439 in all, are:
+= -- 356
+> -- 34
 < -- 0
-+ -- 22
++ -- 23
 - -- 4
-* -- 274
-:= -- 249
-add.period$ -- 40
-call.type$ -- 18
+* -- 288
+:= -- 261
+add.period$ -- 42
+call.type$ -- 19
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 21
-duplicate$ -- 211
-empty$ -- 508
+cite$ -- 22
+duplicate$ -- 223
+empty$ -- 537
 format.name$ -- 4
-if$ -- 874
+if$ -- 922
 int.to.chr$ -- 0
-int.to.str$ -- 18
+int.to.str$ -- 19
 missing$ -- 0
-newline$ -- 107
+newline$ -- 112
 num.names$ -- 1
-pop$ -- 117
+pop$ -- 124
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 92
+skip$ -- 97
 stack$ -- 0
 substring$ -- 0
-swap$ -- 108
+swap$ -- 114
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 18
+type$ -- 19
 warning$ -- 3
 while$ -- 1
-width$ -- 20
-write$ -- 183
+width$ -- 21
+write$ -- 192
 (There were 3 warnings)

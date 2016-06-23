@@ -120,6 +120,12 @@ Digium, Inc. \BibDash
   \BibUrl{https://wiki.asterisk.org/wiki/display/AST/Asterisk+WebRTC+Support}
   (online; accessed: 19.06.2016).
 
+\bibitem{FreePBX}
+\selectlanguageifdefined{english}
+FreePBXElectronic resource, Sangoma Technologies. \BibDash
+\newblock URL: \BibUrl{https://www.freepbx.org/} (online; accessed:
+  20.06.2016).
+
 \bibitem{vtiger_db}
 \selectlanguageifdefined{english}
 vtigerCRM Data Model. \BibDash

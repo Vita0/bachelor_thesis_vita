@@ -1,5 +1,5 @@
 \nomenclatureentry{aJRE@[{JRE}]\begingroup Java Runtime Environment\nomeqref {0}|nompageref}{8}
-\nomenclatureentry{aVoIP@[{VoIP}]\begingroup Voice over IP, IP-телефония\nomeqref {0}|nompageref}{8}
+\nomenclatureentry{aVoIP@[{VoIP}]\begingroup Voice over IP, телефония в IP сетях\nomeqref {0}|nompageref}{8}
 \nomenclatureentry{aAEC@[{AEC}]\begingroup Acoustic Echo Cancellation, эхоподавление\nomeqref {0}|nompageref}{8}
 \nomenclatureentry{aAGC@[{AGC}]\begingroup Automatic Gain Control, автоматическая регулировка усиления\nomeqref {0}|nompageref}{8}
 \nomenclatureentry{aAJB@[{AJB}]\begingroup Adaptive Jitter Buffer, буфер выравнивания задержек передачи\nomeqref {0}|nompageref}{8}
@@ -10,6 +10,6 @@
 \nomenclatureentry{aCRM@[{CRM}]\begingroup Customer Relationship Management, управление взаимоотношениями с клиентами\nomeqref {0}|nompageref}{8}
 \nomenclatureentry{aDTMF@[{DTMF}]\begingroup Dual-Tone Multi-Frequency, двухтональный многочастотный аналоговый сигнал\nomeqref {0}|nompageref}{8}
 \nomenclatureentry{aAJAX@[{AJAX}]\begingroup Asynchronous Javascript And Xml, Асинхронный JavaScript и Xml\nomeqref {0}|nompageref}{8}
-\nomenclatureentry{aSIP@[{SIP}]\begingroup Session Initiation Protocol\nomeqref {0}|nompageref}{8}
-\nomenclatureentry{aICE@[{ICE}]\begingroup Interactive Connectivity Establishment, Установление интерактивного соединения\nomeqref {0}|nompageref}{8}
+\nomenclatureentry{aSIP@[{SIP}]\begingroup Session Initiation Protocol, протокол установления сеанса\nomeqref {0}|nompageref}{8}
+\nomenclatureentry{aICE@[{ICE}]\begingroup Interactive Connectivity Establishment, установление интерактивного соединения\nomeqref {0}|nompageref}{8}
 \nomenclatureentry{aSTUN@[{STUN}]\begingroup Session Traversal Utilities for NAT, утилиты прохождения сессий для NAT\nomeqref {0}|nompageref}{8}
