@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.6.14)  23 JUN 2016 08:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.6.14)  24 JUN 2016 06:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1499,8 +1499,13 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 135.
- [17] [18])
-(./task.tex [19] [20
+ [17]
+Underfull \hbox (badness 1199) in paragraph at lines 150--151
+\T2A/cmr/m/n/10 та^^?ко^^?го сто^^?рон^^?не^^?го те^^?ле^^?фо^^?на с CRM-^^?сис
+те^^?мой вы^^?пол^^?ня^^?ет мо^^?дуль
+ []
+
+[18]) (./task.tex [19] [20
 
 ]
 Underfull \hbox (badness 4205) in paragraph at lines 17--18
@@ -1905,7 +1910,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 77.
 Here is how much of TeX's memory you used:
  27467 strings out of 494466
  469419 string characters out of 6172530
- 657885 words of memory out of 5000000
+ 657884 words of memory out of 5000000
  29338 multiletter control sequences out of 15000+600000
  19889 words of font info for 54 fonts, out of 8000000 for 9000
  452 hyphenation exceptions out of 8191
@@ -1926,7 +1931,7 @@ r/fonts/pk/ljfour/lh/lh-t2a/larm1000.600pk></usr/share/texlive/texmf-dist/fonts
 public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmtt10.pfb>
-Output written on thesis.pdf (67 pages, 1011519 bytes).
+Output written on thesis.pdf (67 pages, 1011492 bytes).
 PDF statistics:
  2181 PDF objects out of 2487 (max. 8388607)
  1349 compressed objects within 14 object streams
