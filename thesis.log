@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.6.14)  24 JUN 2016 06:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.6.14)  24 JUN 2016 12:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1377,7 +1377,7 @@ File: lstlang1.sty 2014/09/06 1.5e listings language file
 \sixthskip=\skip72
 \picsize=\skip73
 
-<fig/spbpu.jpg, id=172, 334.24875pt x 192.72pt>
+<fig/spbpu.jpg, id=176, 334.24875pt x 192.72pt>
 File: fig/spbpu.jpg Graphic file (type jpg)
  <use fig/spbpu.jpg>
 Package pdftex.def Info: fig/spbpu.jpg used on input line 36.
@@ -1456,51 +1456,54 @@ Underfull \hbox (badness 1221) in paragraph at lines 10--11
 ] [10
 
 ]
-Underfull \hbox (badness 1077) in paragraph at lines 19--20
+Underfull \hbox (badness 1077) in paragraph at lines 21--22
 []\T2A/cmr/m/n/10 К со^^?жа^^?ле^^?нию, в Java есть про^^?бле^^?мы с об^^?ра^^?
 бот^^?кой зву^^?ка в
  []
 
 
-Underfull \hbox (badness 1178) in paragraph at lines 19--20
+Underfull \hbox (badness 1178) in paragraph at lines 21--22
 \T2A/cmr/m/n/10 ре^^?аль^^?ном вре^^?ме^^?ни. А это по^^?чти всј ал^^?го^^?рит^
 ^?мы, ко^^?то^^?рые долж^^?
  []
 
 
-Underfull \hbox (badness 4316) in paragraph at lines 19--20
+Underfull \hbox (badness 4316) in paragraph at lines 21--22
 \T2A/cmr/m/n/10 Gain Control, AGC), бу^^?фер вы^^?рав^^?ни^^?ва^^?ния за^^?дер^
 ^?жек пе^^?ре^^?да^^?чи
  []
 
 [11] [12]
-Underfull \hbox (badness 1178) in paragraph at lines 58--59
+Underfull \hbox (badness 1178) in paragraph at lines 60--61
 []\T2A/cmr/m/n/10 У со^^?вре^^?мен^^?ных бра^^?у^^?зе^^?ров име^^?ет^^?ся мно^^
 ?же^^?ство воз^^?мож^^?но^^?стей,
  []
 
-[13] [14] [15]
-Underfull \hbox (badness 1436) in paragraph at lines 114--115
+[13] [14]
+Underfull \vbox (badness 1072) has occurred while \output is active []
+
+ [15]
+Underfull \hbox (badness 1436) in paragraph at lines 116--117
 []\T2A/cmr/m/n/10 Реализован на по^^?пу^^?ляр^^?ном сре^^?ди web-^^?раз^^?ра^^?
 бот^^?чи^^?ков язы^^?ке
  []
 
 
-Underfull \hbox (badness 1303) in paragraph at lines 120--121
+Underfull \hbox (badness 1303) in paragraph at lines 122--123
 []\T2A/cmr/m/n/10 RFC ещј не раз^^?ра^^?бо^^?тан, на се^^?го^^?дняш^^?ний день 
 су^^?ще^^?ству^^?ет
  []
 
 [16]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 135.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 137.
 
  (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 135.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 137.
  [17]
-Underfull \hbox (badness 1199) in paragraph at lines 150--151
+Underfull \hbox (badness 1199) in paragraph at lines 152--153
 \T2A/cmr/m/n/10 та^^?ко^^?го сто^^?рон^^?не^^?го те^^?ле^^?фо^^?на с CRM-^^?сис
 те^^?мой вы^^?пол^^?ня^^?ет мо^^?дуль
  []
@@ -1513,15 +1516,11 @@ Underfull \hbox (badness 4205) in paragraph at lines 17--18
 ?ми: Firefox, Google
  []
 
-
-Underfull \vbox (badness 2469) has occurred while \output is active []
-
- [21])
-(./architecture.tex
+[21]) (./architecture.tex
 Underfull \vbox (badness 6461) has occurred while \output is active []
 
  [22]
-[23] <fig/modulesStructure.jpg, id=393, 451.6875pt x 319.1925pt>
+[23] <fig/modulesStructure.jpg, id=399, 451.6875pt x 319.1925pt>
 File: fig/modulesStructure.jpg Graphic file (type jpg)
 
 <use fig/modulesStructure.jpg>
@@ -1535,7 +1534,7 @@ Underfull \hbox (badness 1009) in paragraph at lines 24--25
 з^^?ра^^?бот^^?ки. Здесь
  []
 
-[25] <fig/architecture.jpg, id=409, 654.445pt x 337.26pt>
+[25] <fig/architecture.jpg, id=415, 654.445pt x 337.26pt>
 File: fig/architecture.jpg Graphic file (type jpg)
 
 <use fig/architecture.jpg>
@@ -1553,7 +1552,7 @@ Underfull \hbox (badness 2073) in paragraph at lines 45--46
 ^?ве^^?ча^^?ет мо^^?дуль
  []
 
-<fig/ClickToCall.jpg, id=416, 469.755pt x 367.3725pt>
+<fig/ClickToCall.jpg, id=422, 469.755pt x 367.3725pt>
 File: fig/ClickToCall.jpg Graphic file (type jpg)
 
 <use fig/ClickToCall.jpg>
@@ -1588,7 +1587,7 @@ Underfull \hbox (badness 2057) in paragraph at lines 66--67
 и оста^^?но^^?ва
  []
 
-<fig/FinalState.jpg, id=457, 442.65375pt x 344.28625pt>
+<fig/FinalState.jpg, id=463, 442.65375pt x 344.28625pt>
 File: fig/FinalState.jpg Graphic file (type jpg)
 
 <use fig/FinalState.jpg>
@@ -1633,7 +1632,7 @@ File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2014/09/29 v1.1m UTF-8 support for inputenc
 ) (./src/call.log
-[39]) <fig/test1.jpg, id=516, 1081.03876pt x 737.75626pt>
+[39]) <fig/test1.jpg, id=522, 1081.03876pt x 737.75626pt>
 File: fig/test1.jpg Graphic file (type jpg)
  <use fig/test1.jpg>
 Package pdftex.def Info: fig/test1.jpg used on input line 45.
@@ -1642,7 +1641,7 @@ Package pdftex.def Info: fig/test1.jpg used on input line 45.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<fig/test2.jpg, id=517, 269.005pt x 349.305pt>
+<fig/test2.jpg, id=523, 269.005pt x 349.305pt>
 File: fig/test2.jpg Graphic file (type jpg)
  <use fig/test2.jpg>
 Package pdftex.def Info: fig/test2.jpg used on input line 51.
@@ -1651,7 +1650,7 @@ Package pdftex.def Info: fig/test2.jpg used on input line 51.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/test3.jpg, id=518, 272.01625pt x 348.30125pt>
+<fig/test3.jpg, id=524, 272.01625pt x 348.30125pt>
 File: fig/test3.jpg Graphic file (type jpg)
  <use fig/test3.jpg>
 Package pdftex.def Info: fig/test3.jpg used on input line 57.
@@ -1660,7 +1659,7 @@ Package pdftex.def Info: fig/test3.jpg used on input line 57.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/test4.jpg, id=519, 259.97125pt x 347.2975pt>
+<fig/test4.jpg, id=525, 259.97125pt x 347.2975pt>
 File: fig/test4.jpg Graphic file (type jpg)
  <use fig/test4.jpg>
 Package pdftex.def Info: fig/test4.jpg used on input line 63.
@@ -1669,7 +1668,7 @@ Package pdftex.def Info: fig/test4.jpg used on input line 63.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/test5.jpg, id=520, 274.02374pt x 349.305pt>
+<fig/test5.jpg, id=526, 274.02374pt x 349.305pt>
 File: fig/test5.jpg Graphic file (type jpg)
  <use fig/test5.jpg>
 Package pdftex.def Info: fig/test5.jpg used on input line 69.
@@ -1678,7 +1677,7 @@ Package pdftex.def Info: fig/test5.jpg used on input line 69.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/test6.jpg, id=521, 266.9975pt x 350.30875pt>
+<fig/test6.jpg, id=527, 266.9975pt x 350.30875pt>
 File: fig/test6.jpg Graphic file (type jpg)
  <use fig/test6.jpg>
 Package pdftex.def Info: fig/test6.jpg used on input line 75.
@@ -1687,7 +1686,7 @@ Package pdftex.def Info: fig/test6.jpg used on input line 75.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/test7.jpg, id=522, 266.9975pt x 350.30875pt>
+<fig/test7.jpg, id=528, 266.9975pt x 350.30875pt>
 File: fig/test7.jpg Graphic file (type jpg)
  <use fig/test7.jpg>
 Package pdftex.def Info: fig/test7.jpg used on input line 81.
@@ -1696,7 +1695,7 @@ Package pdftex.def Info: fig/test7.jpg used on input line 81.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/test8.jpg, id=523, 266.9975pt x 350.30875pt>
+<fig/test8.jpg, id=529, 266.9975pt x 350.30875pt>
 File: fig/test8.jpg Graphic file (type jpg)
  <use fig/test8.jpg>
 Package pdftex.def Info: fig/test8.jpg used on input line 87.
@@ -1705,11 +1704,11 @@ Package pdftex.def Info: fig/test8.jpg used on input line 87.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./conclusion.tex [40] [41 <./fig/test1.jpg> <./fig/test2.jpg>] [42 <./fig/te
-st3.jpg> <./fig/test4.jpg>] [43 <./fig/test5.jpg> <./fig/test6.jpg>] [44 <./fig
-/test7.jpg> <./fig/test8.jpg>]) (./thesis.bbl [45
+[40]) (./conclusion.tex [41 <./fig/test1.jpg>] [42 <./fig/test2.jpg> <./fig/tes
+t3.jpg>] [43 <./fig/test4.jpg> <./fig/test5.jpg>] [44 <./fig/test6.jpg> <./fig/
+test7.jpg>] [45 <./fig/test8.jpg>] [46
 
-]
+]) (./thesis.bbl [47]
 Underfull \hbox (badness 1454) in paragraph at lines 16--21
 []\T2A/cmr/m/n/10 WebRTC, Flash RTMFP, Java Applet ^^U три ве^^?ду^^?щих тех^^?
 но^^?
@@ -1760,7 +1759,7 @@ e-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [46
+ [48
 
 ]
 Underfull \hbox (badness 2744) in paragraph at lines 74--80
@@ -1801,7 +1800,7 @@ org / sipml5/$[] \OT1/cmr/m/n/10 (on-line; ac-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [47]
+ [49]
 Underfull \hbox (badness 6032) in paragraph at lines 131--135
 []\OT1/cmr/m/n/10 vtigerCRM Data Model. []  URL: []$\OT1/cmtt/m/n/10 https : / 
 / www . vtiger . com /
@@ -1831,32 +1830,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 144--149
 5 / 10 /
  []
 
-) (./appendix01.tex [48] (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+) (./appendix01.tex [50] (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2014/09/29 v1.1m UTF-8 support for inputenc
 ) (./src/softPhone.js) (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2014/09/29 v1.1m UTF-8 support for inputenc
 )
-(./src/softPhone.html [49
+(./src/softPhone.html [51
 
-]) [50]
+]) [52]
 (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2014/09/29 v1.1m UTF-8 support for inputenc
 ) (./src/softPhone.css
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [51])
+ [53])
 (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2014/09/29 v1.1m UTF-8 support for inputenc
 ) (./src/softPhoneCore.js
 LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <7> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 18.
-[52]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [53]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [54]
+[54]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [55]
@@ -1877,7 +1870,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [60]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [61])
+ [61]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [62]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [63])
 Underfull \hbox (badness 8170) in paragraph at lines 33--33
 []\T2A/cmr/m/n/9 Листинг А.5. |Файл об^^?ра^^?бот^^?ки со^^?бы^^?тий гра^^?фи^^
 ?че^^?ско^^?го ин^^?тер^^?фей^^?са
@@ -1886,10 +1885,10 @@ Underfull \hbox (badness 8170) in paragraph at lines 33--33
 (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2014/09/29 v1.1m UTF-8 support for inputenc
 )
-(./src/softPhonePopupUI.js [62]
+(./src/softPhonePopupUI.js [64]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [63])
+ [65])
 (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2014/09/29 v1.1m UTF-8 support for inputenc
 )
@@ -1897,21 +1896,21 @@ File: utf8.def 2014/09/29 v1.1m UTF-8 support for inputenc
 (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2014/09/29 v1.1m UTF-8 support for inputenc
 )
-(./src/softPhone_vtiger.php [64])) [65]
+(./src/softPhone_vtiger.php [66])) [67]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 77.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 77.
  (./thesis.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 77.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 77.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: E78D69BCC5DA31B5D3D2EFE884B95C1C;11524.
+(rerunfilecheck)             Checksum: 75A87512D31BAB5A1FB826737FF34C8D;11846.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 77.
  ) 
 Here is how much of TeX's memory you used:
- 27467 strings out of 494466
- 469419 string characters out of 6172530
- 657884 words of memory out of 5000000
- 29338 multiletter control sequences out of 15000+600000
+ 27472 strings out of 494466
+ 469464 string characters out of 6172530
+ 657885 words of memory out of 5000000
+ 29339 multiletter control sequences out of 15000+600000
  19889 words of font info for 54 fonts, out of 8000000 for 9000
  452 hyphenation exceptions out of 8191
  64i,12n,104p,1298b,2415s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1931,10 +1930,10 @@ r/fonts/pk/ljfour/lh/lh-t2a/larm1000.600pk></usr/share/texlive/texmf-dist/fonts
 public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmtt10.pfb>
-Output written on thesis.pdf (67 pages, 1011492 bytes).
+Output written on thesis.pdf (69 pages, 1013569 bytes).
 PDF statistics:
- 2181 PDF objects out of 2487 (max. 8388607)
- 1349 compressed objects within 14 object streams
- 746 named destinations out of 1000 (max. 500000)
- 478 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2194 PDF objects out of 2487 (max. 8388607)
+ 1361 compressed objects within 14 object streams
+ 750 named destinations out of 1000 (max. 500000)
+ 486 words of extra memory for PDF output out of 10000 (max. 10000000)
 
